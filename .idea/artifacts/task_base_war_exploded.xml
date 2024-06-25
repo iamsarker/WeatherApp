@@ -14,9 +14,10 @@
           <element id="module-output" name="task-base" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-internal:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-core-internal:24.4.3" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-internal:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-core-internal:24.4.4" />
           <element id="library" level="project" name="Maven: com.vaadin:flow-server:24.4.2" />
           <element id="library" level="project" name="Maven: com.vaadin.servletdetector:throw-if-servlet3:1.0.2" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-fileupload2-jakarta:2.0.0-M1" />
@@ -37,61 +38,61 @@
           <element id="library" level="project" name="Maven: com.vaadin:flow-html-components:24.4.2" />
           <element id="library" level="project" name="Maven: com.vaadin:flow-data:24.4.2" />
           <element id="library" level="project" name="Maven: com.vaadin:flow-dnd:24.4.2" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-lumo-theme:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-material-theme:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-accordion-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-avatar-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-button-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-checkbox-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-combo-box-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-confirm-dialog-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-custom-field-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-date-picker-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-date-time-picker-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-details-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-time-picker-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-select-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-side-nav-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dialog-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-form-layout-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-field-highlighter-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-grid-flow:24.4.3" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-lumo-theme:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-material-theme:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-accordion-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-avatar-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-button-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-checkbox-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-combo-box-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-confirm-dialog-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-custom-field-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-date-picker-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-date-time-picker-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-details-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-time-picker-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-select-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-side-nav-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dialog-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-form-layout-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-field-highlighter-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-grid-flow:24.4.4" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.14.0" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-icons-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-virtual-list-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-list-box-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-login-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-messages-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-ordered-layout-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-progress-bar-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-radio-button-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-renderer-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-split-layout-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-tabs-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-text-field-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-upload-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-notification-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-app-layout-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-context-menu-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-menu-bar-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-board-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-charts-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-cookie-consent-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-crud-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-flow-components-base:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-grid-pro-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-map-flow:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-rich-text-editor-flow:24.4.3" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-icons-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-virtual-list-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-list-box-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-login-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-messages-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-ordered-layout-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-progress-bar-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-radio-button-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-renderer-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-split-layout-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-tabs-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-text-field-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-upload-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-notification-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-app-layout-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-context-menu-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-menu-bar-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-board-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-charts-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-cookie-consent-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-crud-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-flow-components-base:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-grid-pro-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-map-flow:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-rich-text-editor-flow:24.4.4" />
           <element id="library" level="project" name="Maven: com.vaadin:collaboration-engine:6.2.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.17.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.17.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.17.0" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-core:24.4.3" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dev:24.4.3" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-core:24.4.4" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dev:24.4.4" />
           <element id="library" level="project" name="Maven: com.vaadin:vaadin-dev-server:24.4.2" />
           <element id="library" level="project" name="Maven: com.github.javaparser:javaparser-core:3.25.10" />
           <element id="library" level="project" name="Maven: io.methvin:directory-watcher:0.18.0" />
-          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dev-bundle:24.4.3" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-dev-bundle:24.4.4" />
           <element id="library" level="project" name="Maven: com.vaadin:copilot:24.4.3" />
           <element id="library" level="project" name="Maven: io.projectreactor.netty:reactor-netty:1.1.18" />
           <element id="library" level="project" name="Maven: io.projectreactor.netty:reactor-netty-core:1.1.18" />
@@ -118,7 +119,6 @@
           <element id="library" level="project" name="Maven: io.projectreactor.netty.incubator:reactor-netty-incubator-quic:0.1.18" />
           <element id="library" level="project" name="Maven: io.netty.incubator:netty-incubator-codec-native-quic:linux-x86_64:0.0.62.Final" />
           <element id="library" level="project" name="Maven: io.netty.incubator:netty-incubator-codec-classes-quic:0.0.62.Final" />
-          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-configuration2:2.11.0" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-text:1.12.0" />
           <element id="library" level="project" name="Maven: com.github.javaparser:javaparser-symbol-solver-core:3.25.10" />
@@ -133,13 +133,13 @@
           <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:3.0.0" />
           <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.14.15" />
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.30.2-GA" />
-          <element id="library" level="project" name="Maven: com.vaadin:license-checker:1.12.12" />
+          <element id="library" level="project" name="Maven: com.vaadin:license-checker:1.12.13" />
           <element id="library" level="project" name="Maven: com.github.oshi:oshi-core:6.4.10" />
           <element id="library" level="project" name="Maven: net.java.dev.jna:jna:5.14.0" />
           <element id="library" level="project" name="Maven: net.java.dev.jna:jna-platform:5.14.0" />
           <element id="library" level="project" name="Maven: com.nimbusds:nimbus-jose-jwt:9.37.3" />
           <element id="library" level="project" name="Maven: org.lucee:jcip-annotations:1.0.0" />
-          <element id="library" level="project" name="Maven: com.vaadin:open:8.5.0" />
+          <element id="library" level="project" name="Maven: com.vaadin:open:8.5.0.1" />
           <element id="library" level="project" name="Maven: com.vaadin.external.gwt:gwt-elemental:2.8.2.vaadin2" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.16.1" />
         </element>

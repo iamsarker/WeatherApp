@@ -16,8 +16,9 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
 
-        <vaadin.version>24.4.3</vaadin.version>
-        <drivers.downloader.phase>pre-integration-test</drivers.downloader.phase>
+        <!-- Dependencies -->
+
+        <vaadin.version>24.4.4</vaadin.version>
         <jetty.version>11.0.20</jetty.version>
     </properties>
 
@@ -78,19 +79,24 @@
             <dependency>
                 <groupId>com.vaadin</groupId>
                 <artifactId>vaadin-bom</artifactId>
+                <version>${vaadin.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
-                <version>${vaadin.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
 
     <dependencies>
         <dependency>
+            <groupId>jakarta.platform</groupId>
+            <artifactId>jakarta.jakartaee-web-api</artifactId>
+            <version>10.0.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
             <groupId>com.vaadin</groupId>
             <!-- Replace artifactId with vaadin-core to use only free components -->
             <artifactId>vaadin</artifactId>
-            <!-- Remove the following exclussion if you want to enable Hilla -->
             <exclusions>
                 <exclusion>
                     <groupId>com.vaadin</groupId>

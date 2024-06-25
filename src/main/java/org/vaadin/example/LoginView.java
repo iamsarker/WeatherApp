@@ -12,8 +12,8 @@ import com.vaadin.flow.router.Route;
 @PageTitle("Login | Task Project")
 public class LoginView extends VerticalLayout implements BeforeEnterObserver {
 
-    private LoginI18n loginI18n = LoginI18n.createDefault();
-    private LoginForm loginForm = new LoginForm(loginI18n);
+    private LoginI18n i18n = LoginI18n.createDefault();
+    private LoginForm loginForm = new LoginForm(i18n);
 
     public LoginView(){
         addClassName("login-view");
@@ -21,8 +21,8 @@ public class LoginView extends VerticalLayout implements BeforeEnterObserver {
         setAlignItems(Alignment.CENTER);
         setJustifyContentMode(JustifyContentMode.CENTER);
 
-        loginI18n.getForm().setTitle("Login to Weather App");
-        loginForm.setI18n(loginI18n);
+        i18n.getForm().setTitle("Login to Weather App");
+        loginForm.setI18n(i18n);
 
         add(loginForm);
     }
